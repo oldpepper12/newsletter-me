@@ -1,0 +1,71 @@
+{
+    "newsletters": [
+        {
+            "subscribe_method": {
+                "get": "https://allpass.salemwebnetwork.com/newsletters/fullsubmission?&emailAddress=$EMAIL&firstName=&lastName=&newsletters=4879%2C9813%2C9651%2C7063%2C9997%2C10386%2C8171%2C6932%2C9657%2C6784%2C6878%2C10120%2C10913%2C9619%2C9502%2C9576%2C9607%2C9681%2C9591%2C9610%2C9166%2C9611%2C9593%2C9624%2C9632%2C9670%2C9680%2C10163%2C10857%2C11113&signupLocation=Newsletter%20Page&signupDomain=www.oneplace.com&signupUrl=%2Fnewsletters%2F&signupPage=2&screen=1463&callback=jQuery213032492932264264196_1623951047210&referrerInfo=https%3A%2F%2Fwww.google.com%2F&"
+            },
+            "parent_url": "https://www.oneplace.com"
+        },
+        {
+            "subscribe_method": {
+                "post": "https://electronics.howstuffworks.com/newsletter/signup",
+                "body": "formloc=Footer&email=$EMAIL"
+            },
+            "parent_url": "https://electronics.howstuffworks.com"
+        },
+        {
+            "subscribe_method": {
+                "post": "https://www.conservativebookclub.com/signups/donald-trump-newsletter-signup",
+                "body": "submitted=1&signupcode=CBCTRUMPNL&signupurl=www.conservativebookclub.com%2Fsignups%2Fdonald-trump-newsletter-signup&emailAddress=$EMAIL"
+            }
+        },
+        {
+            "subscribe_method": {
+                "post": "https://www.blazinggrace.org/",
+                "body": "------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"input_1\"\r\n\r\nJohn Smith\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"input_3\"\r\n\r\n$EMAIL\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"input_5\"\r\n\r\n\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"is_submit_3\"\r\n\r\n1\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"gform_submit\"\r\n\r\n3\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"gform_unique_id\"\r\n\r\n\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"state_3\"\r\n\r\nWyJbXSIsImU2ZTdmYTk0OTY3YzQ5ZWRiNWRlMDg5NTI0ZDBmOWUwIl0=\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"gform_target_page_number_3\"\r\n\r\n0\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"gform_source_page_number_3\"\r\n\r\n1\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE\r\nContent-Disposition: form-data; name=\"gform_field_values\"\r\n\r\n\r\n------WebKitFormBoundarybBR2AyAQLUQhAZHE--\r\n",
+                "replace_format": "unchanged"
+            }
+        },
+        {
+            "subscribe_method": {
+                "post": "https://www.potterybarn.com/customer-service/email-list/",
+                "body": "address.fullName=John+Smith&address.emailAddr=$EMAIL&confirmEmailAddr=$EMAIL&address.postalCode=42323&catalogs=3&catalogs=7&catalogs=0&catalogs=6&catalogs=14&catalogs=24",
+                "cookie": "TnTNew=true; WSPFY=9168dc178f990000daf3ca603503000007410b00; ad_sess_pb_email=true; rr_rcs=eF4FwbkRgDAMBMDEEb0c47MkPx1Qh2UxQ0AG1M9uSq8fHm5kz2jFCZ0aCNGJ7Ba9Sq7natv9PdfaS-lgLTIoakYZIAH-jp4ReQ; PBRN=CT-1; WSIDC=EAST; INTERNATIONAL=US-USD-1; _abck=5AEDE7088E91D861570CD799F22D1D93~0~YAAQ12ncF77HYQJ6AQAAXcp2GwaotqDEkbwKyte00kGFJ6ZNqmqPSOD2UqjZQJtpYMIAt2hWNMYzyVipcr7KKXA5utmhjrVk/sV3vjZ5wz6d9PXfv5L1rXs5JpqDFZIhwLqd8MK7MwO5DWZZLynT1wXCX5L4hTY57RnvxINJoSohzpRmXKzT+BCD2YyCyWwXeieWPpO1PoY9LUjsvudmPyEDmPTM7ODViRq5UDTFyR3rABE7Ulza20Yj8puOOe5eUmDMsGgyJhud8Fc9ClKoIh4v941vwlwts2mC0DHrE/pEV9O33K0Eah2XmV1TdFKgbpXJN4OApNWmAjNYEFpX2DZgHnQ8AicutTO+oqGDmtAcIJw/StZNvg46uhk47parmDUvfxkfydK2CKgWjKLTx0lURWncS7NZcXt7Bh8=~-1~-1~-1; WSGEO=US|MA|02458|42.3527|-71.1872; check=true; mbox=session#d9281f9cf47e43188b7ffe50c8d5b650#1623960269; AMCVS_D38758195432E1050A4C98A2%40AdobeOrg=1; CreState=Z42UJ7RMkdB0i08sYAjf2sY8FYt4RzSpCKDXAh9s9qk%3D.999.v1; AMCV_D38758195432E1050A4C98A2%40AdobeOrg=1075005958%7CMCIDTS%7C18796%7CMCMID%7C30087844442296211167071179830552737810%7CMCAID%7CNONE%7CMCOPTOUT-1623966577s%7CNONE%7CvVersion%7C4.4.1"
+            }
+        },
+        {
+            "subscribe_method": {
+                "post": "https://x.specialoffers.meredith.com/ats/post.aspx",
+                "body": "cr=588&fm=281&s_brand_id=msl&s_registration_source=10228&s_option_1=1&selectAll=&s_newsletter_1=17000008&s_newsletter_2=21100002&s_newsletter_3=21500003&s_newsletter_4=17000006&s_newsletter_5=22700002&s_newsletter_6=17000014&s_newsletter_7=22700004&s_Email=$EMAIL&submit=SUBMIT"
+            },
+            "parent_url": "https://www.marthastewart.com/"
+        },
+        {
+            "subscribe_method": {
+                "post": "https://www.orientaltrading.com/web/email/signup?cm_sp=footer-_-EmailOpt-_-EmailOpt",
+                "body": "signupSource=88&email=$EMAIL"
+            }
+        },
+        {
+            "subscribe_method": {
+                "post": "https://www.nationalreview.com/wp-json/nr/v1/newsletter?_locale=user",
+                "body": "latest_sub=1&newsletters%5B%5D=morning-jolt&newsletters%5B%5D=nr&newsletters%5B%5D=Breaking-News&email=$EMAIL&source=footer&location=footer&_wpnonce=d6f59e3e91&_wp_http_referer=%2F2020%2F07%2Fchina-intellectual-property-theft-counting-costs-united-states%2F"
+            }
+        },
+        {
+            "subscribe_method": {
+                "post": "https://app-ab04.marketo.com/index.php/leadCapture/save2",
+                "body": "formloc=Footer&email=test.1%40gmail.com&b_8de99e1f6a89bfb55478f6bdc="
+            },
+            "parent_url": "https://www.dailysignal.com/"
+        },
+        {
+            "subscribe_method": {
+                "post": "https://storm.townhall.com/api/v1/postup/recipient",
+                "body": "{\"email\":\"$EMAIL\",\"id\":1,\"source\":\"Newsletter Signup Page\",\"list\":[1434,22,24,1490,1698,1707,1537,943,1506,1558,903,1192]}",
+                "replace_format": "unchanged"
+            },
+            "parent_url": "https://townhall.com/newsletters"
+        }
+    ]
+}
